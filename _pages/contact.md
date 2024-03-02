@@ -6,7 +6,7 @@ permalink: /contact/
 ---
 
 
-### Contact details
+**Contact details**
 
 <pre>
 Prof. Florian Urban
