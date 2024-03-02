@@ -16,7 +16,7 @@ Selected **LECTURES** are below.
 
 2018: [recorded lecture “Postmodernism in Poland - an Architecture of Resistance?”](https://www.youtube.com/watch?v=NBIzpfx6epg) at the conference “Po·mo·stroika – Postmodern Theories, Practices and Histories in Central and Eastern Europe” at the Balassi-Institut - Collegium Hungaricum, Berlin, Germany 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/NBIzpfx6epg" title="Florian Urban | POSTMODERNISM IN POLAND – AN ARCHITECTURE OF RESISTANCE?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="897" height="505" src="https://www.youtube.com/embed/NBIzpfx6epg" title="Florian Urban | POSTMODERNISM IN POLAND – AN ARCHITECTURE OF RESISTANCE?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2018: [recorded lecture “The New Tenement”](https://www.youtube.com/watch?v=AgFnxE0iJZw) at the Center for Urban History of East Central Europe in Lviv, Ukraine 
 
