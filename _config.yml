@@ -1,6 +1,6 @@
 # Site settings
 title:          Florian Urban
-description:    "Professor of Architectural History at the Glasgow School of Art"
+description:    "Professor of Architectural History, Glasgow School of Art"
 #baseurl:        "/tale"
 #url:            "https://chesterhow.github.io"
 
@@ -12,8 +12,8 @@ remote_theme: chesterhow/tale
 # Author
 author:
   name:         Florian Urban
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  url:          https://florianurban.com
+  email:        f.urban@gsa.ac.uk
 
 # Build settings
 #markdown:       kramdown
@@ -41,4 +41,4 @@ permalink:      /:year-:month-:day/:title
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+# disqus:         jekyll-tale
