@@ -6,8 +6,6 @@ permalink: /contact/
 ---
 
 
-
-
 ### Contact details
 
 <pre>
