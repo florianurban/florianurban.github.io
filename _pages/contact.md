@@ -1,6 +1,6 @@
 ---
 layout: post
-#title: "Contact"
+title: "Contact"
 author: "Florian Urban"
 permalink: /contact/
 ---
