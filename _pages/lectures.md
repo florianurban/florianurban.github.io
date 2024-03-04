@@ -1,6 +1,6 @@
 ---
 layout: post
-#title: "Lectures"
+title: "Lectures"
 author: "Florian Urban"
 permalink: /lectures/
 ---

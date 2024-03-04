@@ -1,6 +1,6 @@
 ---
 layout: post
-#title: "CV"
+title: "CV"
 author: "Florian Urban"
 permalink: /cv/
 ---
