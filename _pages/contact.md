@@ -17,7 +17,7 @@ Glasgow G3 6RQ
 United Kingdom 
 </pre>
 
-f.urban@gsa.ac.uk
+<f.urban@gsa.ac.uk>
 
 
 [GSA RADAR profile](https://radar.gsa.ac.uk/profile/518)
