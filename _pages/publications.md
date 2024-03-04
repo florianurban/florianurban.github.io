@@ -23,62 +23,62 @@ Berlin/DDR, neo-historisch – Geschichte aus Fertigteilen [Neo-historical East 
 
 # Peer-Reviewed Articles
 
-“Does Postmodern Mean Capitalist? On Postmodernism and the Planned Economy in Poland and the German Democratic Republic” Architektura+Urbanizmus (Bratislava) 57 (2023) n. 3-4, https://doi.org/10.31577/archandurb.2023.57.3-4.1
+“Does Postmodern Mean Capitalist? On Postmodernism and the Planned Economy in Poland and the German Democratic Republic” Architektura+Urbanizmus (Bratislava) 57 (2023) n. 3-4, <https://doi.org/10.31577/archandurb.2023.57.3-4.1>
 
-"Beyond Formal and Informal: Mid-twentieth-century Residential Architecture in Barcelona's El Carmel Neighbourhood" Urban History n. 1 (2024) - co-authored with Kathrin Golda-Pongratz https://doi:10.1017/S0963926823000627
+"Beyond Formal and Informal: Mid-twentieth-century Residential Architecture in Barcelona's El Carmel Neighbourhood" Urban History n. 1 (2024) - co-authored with Kathrin Golda-Pongratz <https://doi:10.1017/S0963926823000627>
 
-„Bottom-Up Postmodernism – Unauthorised Church Architecture in Socialist Poland” Journal of the Society of Architectural Historians 97 n. 4 (December 2020), 459-77, https://doi.org/10.1525/jsah.2020.79.4.459
+„Bottom-Up Postmodernism – Unauthorised Church Architecture in Socialist Poland” Journal of the Society of Architectural Historians 97 n. 4 (December 2020), 459-77, <https://doi.org/10.1525/jsah.2020.79.4.459>
 
-„Postmodern Reconciliation – Reinventing the Old Town of Elbląg” Architectural Histories, October 2020, https://journal.eahn.org/article/10.5334/ah.405/
+„Postmodern Reconciliation – Reinventing the Old Town of Elbląg” Architectural Histories, October 2020, <https://journal.eahn.org/article/10.5334/ah.405/>
 
-„Postmodernism and Socialist Mass Housing in Poland” Planning Perspectives 35 n. 1 (February 2020), 27-60 https://doi.org/10.1080/02665433.2019.1672208
+„Postmodernism and Socialist Mass Housing in Poland” Planning Perspectives 35 n. 1 (February 2020), 27-60 <https://doi.org/10.1080/02665433.2019.1672208>
 
-„Postmodern Architecture Under Socialism – The Ascension Church in Warsaw-Ursynów”  Journal of Architecture 25 n. 3 (2020), 317-346, https://doi.org/10.1080/13602365.2020.1758747
+„Postmodern Architecture Under Socialism – The Ascension Church in Warsaw-Ursynów”  Journal of Architecture 25 n. 3 (2020), 317-346, <https://doi.org/10.1080/13602365.2020.1758747>
 
-“Copenhagen’s Return to the Inner City 1990-2010” Journal of Urban History 45 n. 3 (2019), 1-23, https://doi.org/10.1177/0096144218824303
+“Copenhagen’s Return to the Inner City 1990-2010” Journal of Urban History 45 n. 3 (2019), 1-23, <https://doi.org/10.1177/0096144218824303>
 
 „Vienna’s Resistance to the Neoliberal Turn - Social Policy through Residential Architecture from 1970 to the Present” Footprint 24 n. 1 (spring 2019), 83-104
- https://doi.org/10.7480/footprint.13.1.2011
+ <https://doi.org/10.7480/footprint.13.1.2011>
 
-„Modernising Glasgow–tower blocks, motorways and new towns 1940-2010” Journal of Architecture 23 n. 2 (2018), 265-309 https://doi.org/10.1080/13602365.2018.1446182
+„Modernising Glasgow–tower blocks, motorways and new towns 1940-2010” Journal of Architecture 23 n. 2 (2018), 265-309 <https://doi.org/10.1080/13602365.2018.1446182>
 
-„Berlin’s Construction Groups and the Politics of Bottom-Up Architecture” Urban History 45 n. 2 (2018), 1-32 https://doi.org/10.1017/S0963926817000694
+„Berlin’s Construction Groups and the Politics of Bottom-Up Architecture” Urban History 45 n. 2 (2018), 1-32 <https://doi.org/10.1017/S0963926817000694>
 
 „Balmoral Castle – European Romanticism and Nation Building in the Scottish Highlands” [co-authored with Aonghus MacKechnie], Architectural History September 2015
-https://doi.org/10.1017/S0066622X00002628
+<https://doi.org/10.1017/S0066622X00002628>
 
-„La Perla – 100 years of Informal Architecture in San Juan, Puerto Rico“ Planning Perspectives 30 n. 4 (April 2015), 495-536, https://doi.org/10.1080/02665433.2014.1003247
+„La Perla – 100 years of Informal Architecture in San Juan, Puerto Rico“ Planning Perspectives 30 n. 4 (April 2015), 495-536, <https://doi.org/10.1080/02665433.2014.1003247>
 
- „The Hut on the Garden Plot – Informal Architecture in twentieth-century Berlin“, Journal of the Society of Architectural Historians 72 n. 2 (June 2013), 221-249 https://doi.org/10.1525/jsah.2013.72.2.221
+ „The Hut on the Garden Plot – Informal Architecture in twentieth-century Berlin“, Journal of the Society of Architectural Historians 72 n. 2 (June 2013), 221-249 <https://doi.org/10.1525/jsah.2013.72.2.221>
 
-„Glasgow’s Royal Concert Hall and the Invention of the Post-modern City,” Journal of Architecture 18 n. 2 (2013), 829-871, https://doi.org/10.1080/13602365.2018.1495911
+„Glasgow’s Royal Concert Hall and the Invention of the Post-modern City,” Journal of Architecture 18 n. 2 (2013), 829-871, <https://doi.org/10.1080/13602365.2018.1495911>
 
-„New Tenements and the Image of the Past – the Crown Street Development in Glasgow’s New Gorbals” Architectural Research Quarterly 17 n. 2 (June 2013), 37-48, https://doi.org/10.1017/S1359135513000341
+„New Tenements and the Image of the Past – the Crown Street Development in Glasgow’s New Gorbals” Architectural Research Quarterly 17 n. 2 (June 2013), 37-48, <https://doi.org/10.1017/S1359135513000341>
 
-„Japanese Occidentalism and the Emergence of Postmodern Architecture,“ Journal of Architectural Education 65 (March 2012), 89-102. https://doi.org/10.1111/j.1531-314X.2011.01195.x
+„Japanese Occidentalism and the Emergence of Postmodern Architecture,“ Journal of Architectural Education 65 (March 2012), 89-102. <https://doi.org/10.1111/j.1531-314X.2011.01195.x>
 
-“Mumbai’s Suburban Mass Housing,” Urban History 39 n. 1 (February 2012), 128-148 https://doi.org/10.1017/S0963926811000812
+“Mumbai’s Suburban Mass Housing,” Urban History 39 n. 1 (February 2012), 128-148 <https://doi.org/10.1017/S0963926811000812>
 
 
-„Built Historiography in Glasgow’s New Gorbals”, Journal of Art Historiography 5 (December 2011), https://doaj.org/article/d6135703e24f485d929bee2171d17631
+„Built Historiography in Glasgow’s New Gorbals”, Journal of Art Historiography 5 (December 2011), <https://doaj.org/article/d6135703e24f485d929bee2171d17631>
 
-„Friedrichstraße, 1987: Neo-Historical Urban Design in the German Democratic Republic”, Planning Perspectives 23 n. 1 (2008): 1-28. https://doi.org/10.1080/02665430701737950
+„Friedrichstraße, 1987: Neo-Historical Urban Design in the German Democratic Republic”, Planning Perspectives 23 n. 1 (2008): 1-28. <https://doi.org/10.1080/02665430701737950>
 
 “Prefab Russia,” Docomomo Journal 39 (September 2008), 18-22.
 
-„Designing the Past in East Berlin Before and After the German Reunification”, Progress in Planning 68 n. 1 (January 2008), 1-55, https://doi.org/10.1016/j.progress.2007.07.001
+„Designing the Past in East Berlin Before and After the German Reunification”, Progress in Planning 68 n. 1 (January 2008), 1-55, <https://doi.org/10.1016/j.progress.2007.07.001>
 
 „From Obsolescence to Eternal Preservation”, Future Anterior 3 n. 1 (Mai 2006): 24-35.  [herausgegeben vom Fachbereich Architecture, Planning and Preservation der Columbia University, New York] 
 
-„Rudolf Schwarz and the Speech of the Land – Grammar as a Political Device in Postwar Germany” Journal of Architecture 9 n. 3 (Fall 2004): 251-266 https://doi.org/10.1080/13602360412331296080
+„Rudolf Schwarz and the Speech of the Land – Grammar as a Political Device in Postwar Germany” Journal of Architecture 9 n. 3 (Fall 2004): 251-266 <https://doi.org/10.1080/13602360412331296080>
 
-„Recovering Essence through Demolition – 'Organic’ Urban Design in Postwar West Berlin” Journal of the Society of Architectural Historians 63 n. 2 (2004): 354-369 https://doi.org/10.2307/4127975
+„Recovering Essence through Demolition – 'Organic’ Urban Design in Postwar West Berlin” Journal of the Society of Architectural Historians 63 n. 2 (2004): 354-369 <https://doi.org/10.2307/4127975>
 
-„Picture Postcards of Urbanity – Reflections on Berlin’s Inner City and the 1999 Master Plan” Journal of Architectural Education 57 n. 1 (2003): 68-73 https://doi.org/10.1162/104648803322336601
+„Picture Postcards of Urbanity – Reflections on Berlin’s Inner City and the 1999 Master Plan” Journal of Architectural Education 57 n. 1 (2003): 68-73 <https://doi.org/10.1162/104648803322336601>
 
-„The Spirit of the City – Transcendence and Urban Design in Postwar Berlin”, Thresholds 25 (Fall 2002): 84-89 https://www.mitpressjournals.org/doi/pdf/10.1162/thld_a_00383
+„The Spirit of the City – Transcendence and Urban Design in Postwar Berlin”, Thresholds 25 (Fall 2002): 84-89 <https://www.mitpressjournals.org/doi/pdf/10.1162/thld_a_00383>
 
-„Image – ein gestalterisches Element der Stadtentwicklung” Archiv für Kommunalwissenschaften 38 n. 1 (Februar 1999): 109-118 [herausgegeben vom Deutschen Institut für Urbanistik (DIFU)] https://repository.difu.de/jspui/handle/difu/58803
+„Image – ein gestalterisches Element der Stadtentwicklung” Archiv für Kommunalwissenschaften 38 n. 1 (Februar 1999): 109-118 [herausgegeben vom Deutschen Institut für Urbanistik (DIFU)] <https://repository.difu.de/jspui/handle/difu/58803>
 
 
 # Other scholarly publications (Selection)
@@ -144,5 +144,5 @@ https://doi.org/10.1017/S0066622X00002628
 
 “Stadt in den Köpfen – Metropole und Megacity, die Konferenz Urban Age in Berlin,” Süddeutsche Zeitung 14 November 2006
 
-“Die globale europäische Stadt“ [German, English, Spanish, Italian, June 2008], Goethe-Institute Online http://www.goethe.de/kue/arc/dos/dos/sls/de3481742.htm
+“Die globale europäische Stadt“ [German, English, Spanish, Italian, June 2008], Goethe-Institute Online <http://www.goethe.de/kue/arc/dos/dos/sls/de3481742.htm>
 

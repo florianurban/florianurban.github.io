@@ -3,7 +3,7 @@ layout: post
 #title: About
 ---
 
-**Florian Urban** is **Professor of Architectural History** and Head of History of Architectural and Urban Studies at the **Glasgow School of Art**. 
+**Florian Urban** is an architectural historian. He is **Professor of Architectural History** and Head of History of Architectural and Urban Studies at the **Glasgow School of Art**. 
 
 ![Florian Urban photo](florianUrban.jpeg)
 

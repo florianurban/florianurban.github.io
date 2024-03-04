@@ -16,7 +16,7 @@ author:
   email:        f.urban@gsa.ac.uk
 
 # Build settings
-#markdown:       kramdown
+markdown:       kramdown
 include:
   - _pages
 
