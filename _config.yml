@@ -42,3 +42,14 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 # disqus:         jekyll-tale
+
+navigation:
+- text: CV
+  url: /cv/
+- text: Publications
+  url: /publications/
+- text: Lectures
+  url: /lectures/
+- text: Contact
+  url: /contact/
+  layout: contact
