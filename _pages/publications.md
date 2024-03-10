@@ -13,7 +13,8 @@ permalink: /publications/
 
 Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Routledge, 2025), co-authored with Barnabas Calder
 
-
+&nbsp;
+---
 
 <img class="book" src="../assets/BookPoland.jpg"/>
 
@@ -21,7 +22,7 @@ Postmodern Architecture in Socialist Poland - Transformation, Symbolic Form and 
 
 <https://www.routledge.com/Postmodern-Architecture-in-Socialist-Poland-Transformation-Symbolic-Form-and-National-Identity/Urban/p/book/9780367860738>
 
-
+&nbsp;
 
 <img class="book" src="../assets/bookNewTenement.jpeg"/>
 
@@ -29,7 +30,7 @@ The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledg
 
 <https://www.routledge.com/The-New-Tenement-Residences-in-the-Inner-City-Since-1970/Urban/p/book/9781138224469>
 
-
+&nbsp;
 
 <img class="book" src="../assets/BookTowerAndSlab.jpg"/>
 
@@ -37,6 +38,7 @@ Tower and Slab – a Global History of Mass Housing (Abingdon: Routledge, 2012) 
 
 <https://www.routledge.com/Tower-and-Slab-Histories-of-Global-Mass-Housing/Urban/p/book/9780415676298>
 
+&nbsp;
 
 <img class="book" src="../assets/bookNeoHistorical.jpg"/>
 
@@ -44,7 +46,7 @@ Neo-historical East Berlin – Architecture and Urban Design in the German Democ
 
 <https://www.routledge.com/Neo-historical-East-Berlin-Architecture-and-Urban-Design-in-the-German/Urban/p/book/9781138252936>
 
-
+&nbsp;
 
 <img class="book" src="../assets/BuchGeschichteAusFertigteilen.jpg"/>
 
