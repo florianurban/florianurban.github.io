@@ -14,7 +14,6 @@ permalink: /cv/
 2005/2006	Massachusetts Institute of Technology (MIT), Cambridge, MA
 Ph.D. in History and Theory of Architecture 
 Doctoral Thesis: “The Invention of the Historic City - Building the Past in East Berlin 1970-1990”
-Thesis Committee: Prof. Mark Jarzombek (MIT, Architectural History), chair; Prof. Lawrence Vale (MIT, Urban Studies and Planning); Prof. Harald Bodenschatz (TU Berlin, Architectural Sociology)
 
 2001-2005 	Massachusetts Institute of Technology (MIT), Cambridge, MA
 Doctoral studies in History, Theory, and Criticism of Architecture
@@ -22,10 +21,9 @@ Doctoral studies in History, Theory, and Criticism of Architecture
 1999-2001	University of California, Los Angeles (UCLA)
 Master of Arts in Urban Planning (June 2001)
 Master's thesis: “World Cities Online – City Representation on the Internet” 
-Thesis committee: Prof. Edward Soja, Prof. Michael Storper, Prof. Anastasia Loukaitou-Sideris
 
 1989-1996	University of the Arts, Berlin
-Undergraduate and graduate studies in Fine Arts (six year program in sculpture and media arts), four semesters at the Facultad de Bellas Artes (School of Fine Arts) at the Universidad Complutense in Madrid/Spain.
+Undergraduate and graduate studies in Fine Arts (six year program in sculpture and media arts)
 Degree: Meisterschüler (Master of Fine Arts, February 1996)
 
   
@@ -36,7 +34,7 @@ German (mother tongue), Spanish (C2), Polish (C1), French (C1), Scottish Gaelic 
 **Employment**
 
 since 2010	Mackintosh School of Architecture, Glasgow School of Art
-	Head of Architectural History and Urban Studies
+		Head of Architectural History and Urban Studies
 
 2009-2010	Federal Institute for Research on Building, Urban Affairs and Spatial Development, Bonn/ Berlin (Bundesinstitut für Bau-, Stadt- und Raumforschung, BBSR)
 Project manager, tasks include the management of the federal support program for the UNESCO world heritage sites in Germany and of the German contribution for the 8th Biennial of Architecture in São Paulo
@@ -44,60 +42,45 @@ Project manager, tasks include the management of the federal support program for
 2006-2008	Center for Metropolitan Studies, Technische Universität Berlin
 Guest professor of architectural and urban history 
 
-2004		Mitsui Real Estate Group, Tokyo
-Urban design Proposal for the Nihonbashi neighborhood, Tokyo 
-
-2000 		Dunbar Economic Development Corporation 
-(community oriented non-profit-organization in South Central Los Angeles)
-(6 months) Project manager for art projects, research on the history of the black residents of the neighborhood
-
-1996-1999	Free Lance Project Manager
-Concept, fundraising and organization of several interdisciplinary art projects in public space such as “Stadtwald - Location Factor” in cooperation with the Volksbühne theatre in Berlin/Germany
-
-1995-1999	Goethe Institute Berlin
-Teacher for German as a Second Language, organization of seminars on Berlin culture for international students
-1991-1999	Artist 
-Exhibits in galleries and in public space in Berlin, Munich, Madrid, Tokyo, and Athens	
-
 **Awards and Fellowships**
 
 2018/19 	German Historical Institute Warsaw (D/PL)
-	Six-month grant as a visiting scholar to research “Postmodern Architecture in Poland” 
+		Six-month grant as a visiting scholar to research “Postmodern Architecture in Poland” 
 
 2014-16 	Leverhulme Trust (UK)
-	Two-year research grant for “The New Tenement”
+		Two-year research grant for “The New Tenement”
 
-2013-14	University of Puerto Rico/ National Endowment for the Humanities (USA)
-	Six-months invitation as a visiting professor and researcher, financed by the National Endowment of the Humanities, teaching (in Spanish) and research
+2013-14		University of Puerto Rico/ National Endowment for the Humanities (USA)
+		Six-months invitation as a visiting professor and researcher, financed by the National Endowment of the Humanities, 			teaching (in Spanish) and research
 
-2013	Royal Society of Edinburgh (UK)
-	Research grant to study “Balmoral Castle in a European Context” 
+2013		Royal Society of Edinburgh (UK)
+		Research grant to study “Balmoral Castle in a European Context” 
 
-2012 	Book Prize of the International Planning History Society (IPHS) for Tower and Slab („best book on planning history written in English and based on original research”) 
+2012 		Book Prize of the International Planning History Society (IPHS) for Tower and Slab („best book on planning history written 		in English and based on original research”) 
 
 2007		Geschwister-Böhringer-Ingelheim Foundation (Germany)
 		Grant to publish my book „Berlin, DDR-Neo-historisch“ in German
 
 2007		Fritz-Thyssen Foundation (D) 
-one-year research grant for the research of tower block developments in Europe, America, and Asia
+		one-year research grant for the research of tower block developments in Europe, America, and Asia
 
 2005 		Deutsche Forschungsgemeinschaft (German Research Council, D)
-Summer Fellowship to complete my doctoral dissertation, research at the Center for Metropolitan Studies Berlin
+		Summer Fellowship to complete my doctoral dissertation, research at the Center for Metropolitan Studies Berlin
 
 2005 		Center for European Studies, Harvard University (USA)
-research grant for doctoral research in East Germany
+		research grant for doctoral research in East Germany
 
 2004 		Society of Architectural Historians (USA)
-Opler Award for academic publication of young researcher 
+		Opler Award for academic publication of young researcher 
 
 2003-2004	Studienstiftung des Berliner Abgeordnetenhauses (Foundation of the Berlin Parliament, Germany, D)
-one-year grant to conduct research in East Berlin
+		one-year grant to conduct research in East Berlin
 
 2001-2005	MIT Department of Architecture (USA)
-five-year grant to complete doctoral studies in History, Theory, and Criticism of Architecture (full tuition fees plus salary as a teaching assistant)
+		five-year grant to complete doctoral studies in History, Theory, and Criticism of Architecture (full tuition fees plus 			salary as a teaching assistant)
 
 2000-2001 	University of California, Los Angeles, Department of Urban Planning (USA)
-one-year tuition grant for academic merits	
+		one-year tuition grant for academic merits	
 
 
 
