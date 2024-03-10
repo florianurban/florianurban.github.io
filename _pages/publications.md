@@ -11,6 +11,8 @@ permalink: /publications/
 
 Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Routledge, 2025), co-authored with Barnabas Calder
 
+![book title Postmodern Architecture in Socialist Poland](../assets/BookPoland.jpg)
+
 Postmodern Architecture in Socialist Poland - Transformation, Symbolic Form and National Identity (Abingdon: Routledge, 2021) 
 
 The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledge, 2018) 
