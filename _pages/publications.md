@@ -15,7 +15,7 @@ Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Ro
 
 Postmodern Architecture in Socialist Poland - Transformation, Symbolic Form and National Identity (Abingdon: Routledge, 2021) 
 
-![book title The New Tenement](../assets/bookNewTenement.jpg)
+![book title The New Tenement](../assets/bookNewTenement.jpeg)
 
 The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledge, 2018) 
 
