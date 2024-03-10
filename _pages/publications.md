@@ -11,22 +11,18 @@ permalink: /publications/
 
 Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Routledge, 2025), co-authored with Barnabas Calder
 
-![book title Postmodern Architecture in Socialist Poland](../assets/BookPoland.jpg)
 <img class="book" src="../assets/BookPoland.jpg"/>
 
 Postmodern Architecture in Socialist Poland - Transformation, Symbolic Form and National Identity (Abingdon: Routledge, 2021) 
 
-![book title The New Tenement](../assets/bookNewTenement.jpeg)
 <img class="book" src="../assets/bookNewTenement.jpeg"/>
 
 The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledge, 2018) 
 
-![book title Tower And Slab](../assets/BookTowerAndSlab.jpg)
 <img class="book" src="../assets/BookTowerAndSlab.jpg"/>
 
 Tower and Slab – a Global History of Mass Housing (Abingdon: Routledge, 2012) – awarded the annual prize for the “best book on planning history written in English and based on original research” by the International Planning History Society (IPHS), Russian translation Vashnya i korobka: kratkaya istoriya massovogo zhilya (Moscow: Strelka Press, 2019)
 
-![book title Neohistorical East Berlin](../assets/bookNeoHistorical.jpg)
 <img class="book" src="../assets/bookNeoHistorical.jpg"/>
 
 Neo-historical East Berlin – Architecture and Urban Design in the German Democratic Republic 1970-1990 (Farnham: Ashgate, 2009)
