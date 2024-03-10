@@ -5,7 +5,6 @@ author: "Florian Urban"
 permalink: /cv/
 ---
 
-[CV for download here](../FlorianUrbanCV2023_03.doc)
 
 
 
