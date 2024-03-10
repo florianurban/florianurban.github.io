@@ -9,9 +9,11 @@ permalink: /publications/
 
 # Books
 
-Forthcoming:
+**Forthcoming:**
 
 Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Routledge, 2025), co-authored with Barnabas Calder
+
+
 
 <img class="book" src="../assets/BookPoland.jpg"/>
 
@@ -19,9 +21,13 @@ Postmodern Architecture in Socialist Poland - Transformation, Symbolic Form and 
 
 <https://www.routledge.com/Postmodern-Architecture-in-Socialist-Poland-Transformation-Symbolic-Form-and-National-Identity/Urban/p/book/9780367860738>
 
+
+
 <img class="book" src="../assets/bookNewTenement.jpeg"/>
 
 The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledge, 2018) 
+
+<https://www.routledge.com/The-New-Tenement-Residences-in-the-Inner-City-Since-1970/Urban/p/book/9781138224469>
 
 
 
@@ -29,13 +35,25 @@ The New Tenement – Residences in the Inner City since 1970 (Abingdon, Routledg
 
 Tower and Slab – a Global History of Mass Housing (Abingdon: Routledge, 2012) – awarded the annual prize for the “best book on planning history written in English and based on original research” by the International Planning History Society (IPHS), Russian translation Vashnya i korobka: kratkaya istoriya massovogo zhilya (Moscow: Strelka Press, 2019)
 
+<https://www.routledge.com/Tower-and-Slab-Histories-of-Global-Mass-Housing/Urban/p/book/9780415676298>
+
+
 <img class="book" src="../assets/bookNeoHistorical.jpg"/>
 
 Neo-historical East Berlin – Architecture and Urban Design in the German Democratic Republic 1970-1990 (Farnham: Ashgate, 2009)
 
+<https://www.routledge.com/Neo-historical-East-Berlin-Architecture-and-Urban-Design-in-the-German/Urban/p/book/9781138252936>
+
+
+
 <img class="book" src="../assets/BuchGeschichteAusFertigteilen.jpg"/>
 
 Berlin/DDR, neo-historisch – Geschichte aus Fertigteilen [Neo-historical East Berlin – History from Prefabricated Parts] (Berlin: Gebrüder Mann Verlag, 2007)
+
+
+<https://www.reimer-mann-verlag.de/controller.php?cmd=detail&titelnummer=302544&verlag=3>
+
+
 
 # Peer-Reviewed Articles
 
