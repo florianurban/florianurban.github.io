@@ -27,6 +27,8 @@ Tower and Slab – a Global History of Mass Housing (Abingdon: Routledge, 2012) 
 
 Neo-historical East Berlin – Architecture and Urban Design in the German Democratic Republic 1970-1990 (Farnham: Ashgate, 2009)
 
+<img class="book" src="../assets/BuchGeschichteAusFertigteilen.jpg"/>
+
 Berlin/DDR, neo-historisch – Geschichte aus Fertigteilen [Neo-historical East Berlin – History from Prefabricated Parts] (Berlin: Gebrüder Mann Verlag, 2007)
 
 # Peer-Reviewed Articles
