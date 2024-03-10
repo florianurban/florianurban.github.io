@@ -23,5 +23,5 @@ His book â€œArchitecture and Fuel - 14 Buildings from Antiquity to the Oil Ageâ€
 - New Tenements, that is, dense multi-storey urban residences since 1970
 - Informal housing/self-built housing, particularly in Europe in the mid 20th century
 - Discourses on historic preservation and identity
-- Alpine architecture
+
 
