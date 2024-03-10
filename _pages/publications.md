@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Books
 
+Forthcoming:
+
 Architecture and Fuel - 12 Buildings from Antiquity to the Oil Age (Abingdon: Routledge, 2025), co-authored with Barnabas Calder
 
 <img class="book" src="../assets/BookPoland.jpg"/>
