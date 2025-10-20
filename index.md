@@ -11,6 +11,7 @@ He holds a Master of Fine Arts from the University of the Arts in Berlin, an MA 
 
 He was born and raised in Munich, Germany and spent most of his adult life in Berlin before moving to Glasgow in 2010. Before joining the Mackintosh School of Architecture he taught at the [Center for Metropolitan Studies, Berlin Technical University](https://www.tu.berlin/en/cms) and worked for the [German Federal Institute for Research on Construction, Urban Affairs and Spatial Development (BBSR)](https://www.bbsr.bund.de/BBSR/EN/home/_node.html). Since 2009 he has been the Book Reviews Editor-in-Chief for the journal [Planning Perspectives](https://www.tandfonline.com/journals/rppe20).
 
+![Form Follows Fuel photo] (FlorianUrban_FormFollowsFuel_CoverSmall.jpg)
 His book [Architecture and Fuel - 14 Buildings from Antiquity to the Oil Age](https://www.routledge.com/9781032636542) (co-authored with [Barnabas Calder at the University of Liverpool](https://www.liverpool.ac.uk/architecture/staff/barnabas-calder/) was published by Routledge in 2025. The book compares and contrasts historical buildings with regard to their embodied and operational energy, raising awareness on the historical influence of pre-fossil fuel and fossil-fuel energy regimes on architectural design in light of the current climate emergency.
 
 **Research interests:**
